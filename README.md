@@ -1,195 +1,241 @@
-# Awesome-AI-Virtual-Assistant-Chatbot
+# 🤖 Awesome AI Virtual Assistant & Chatbot
 
-# Awesome-AI-Virtual-Assistant-Chatbot
+<div align="center">
 
-# Awesome-AI-Virtual-Assistant-Chatbot
+![Awesome AI Virtual Assistant Banner](assets/banner.svg)
 
-**Top AI Virtual Assistant Chatbot (Opensource) 🌟 Star if you like it! 🌟**
+<p align="center">
+  <strong>Curated Directory of Enterprise SaaS Platforms &amp; Open-Source Conversational AI Systems</strong>
+</p>
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Virtual-Assistant-Chatbot/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Virtual-Assistant-Chatbot?style=social&color=white" alt="GitHub stars"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Virtual-Assistant-Chatbot/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Virtual-Assistant-Chatbot?style=social&color=white" alt="GitHub forks"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=flat-square" alt="License"></a>
+  <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Virtual-Assistant-Chatbot/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
+</p>
 
+<p align="center">
+  <em>Explore top enterprise platforms, self-hosted LLM frameworks, agentic flow builders, omnichannel routers, and real-time voice assistants.</em>
+</p>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
-
-*Focused on Conversational AI, Visual Flow Builders, Voice Assistants & Self-Hosted Agent Frameworks*
-
-**Last updated: November 2026**
-
-
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **AI Virtual Assistant & Chatbot**. These tools enable organizations to build, deploy, and manage conversational agents across text and voice channels—from fully managed platforms with LLM-native assistants and outcome-based pricing to open-source frameworks that give teams complete control over their conversation data and model choice.
-
-
-
-**Examples** include Kore.ai, IBM watsonx Assistant, Zoho SalesIQ Zia Agents, Yellow.ai, LivePerson, Intercom Fin, Zendesk AI, Ada, Freshworks Freddy, and Drift (the category leaders in commercial space).
-
-
-
-**Open-source emphasis**: This section is expanded with every relevant project for self-hosted virtual assistants, voice agents, and open conversational AI. **Critical note**: The open-source landscape is genuinely functional—**Cel.ai** is a modern framework specifically designed for omnichannel assistants with multi-assistant routing and LangChain integration , while **Rasa** remains the enterprise NLU standard with a large community and full self-hosting control . **Botpress** offers a visual flow builder and deployment options, though its v12 self-hosted documentation is the primary open reference . No open-source project matches Kore.ai's enterprise contact center depth or IBM watsonx's Conversational Search RAG, but for core assistant functionality, the options are production-proven.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
-
-- **Kore.ai**
-
-  **Enterprise virtual assistant platform** with self-service and enterprise tiers. **Pricing**: **Pay-as-you-go model**—start with **5,000 free sessions**, then reload accounts from **$100** and pay only for consumed sessions . **Free tier**: Yes, 5,000 sessions (max 5 bots per account) . **Best for**: enterprises wanting full control over conversation design, NLP training, and deployment—**trade-off**: session-based metering; enterprise features gated by plan tier.
-
-
-
-- **IBM watsonx Assistant**
-
-  **Conversational AI platform** with generative AI and voice add-ons. **Pricing**: **Lite (free)**—basics for building chatbots; **Plus**—**starts at $140/month including 1,000 MAUs**; additional MAUs **$14 per 100 MAUs**; **Resource Units (RUs)** billed at **$0.60 per 1,000 RUs** (1 RU = 1,000 tokens); **Voice add-on $9 per 100 voice MAUs** . **Free tier**: Yes, Lite plan. **Best for**: organizations wanting IBM's enterprise governance and optional voice—**trade-off**: MAU and RU metering requires usage modeling; voice adds cost .
-
-
-
-- **Zoho SalesIQ (Zia Agents)**
-
-  **AI agents within Zoho's customer engagement platform**. **Note**: Search results surface Zoho Virtual Assistant consultation services on Upwork, not a standalone Zoho virtual assistant product . Zoho's actual AI agent capability is Zia Agents within SalesIQ; verify current product positioning directly with Zoho. **Free tier**: SalesIQ Free plan available. **Best for**: Zoho ecosystem users wanting agents within their customer engagement stack.
-
-
-
-- **Yellow.ai**
-
-  **Conversational AI platform** with freemium and premium tiers. **Pricing**: **Freemium**—**5,000 monthly bot conversations**, unlimited agent seats, **500 chat/email tickets/month**, 2 channels, FAQ module; **Premium**—custom pricing via sales. **Free tier**: Yes, 5,000 conversations/month. **Best for**: teams wanting a genuine free tier to evaluate conversational AI—**trade-off**: freemium lacks Doc Cog, Data Explorer, SMS, and Voice; premium requires sales engagement.
-
-
-
-- **LivePerson**
-
-  **Conversational Cloud** for enterprise messaging. **Pricing**: **Bronze/Silver/Gold tiers**; **Engagement Credits per Daily Active Relationship (DAR)**; **SMS/WhatsApp channel fees plus 15% handling fee**; Intent Manager adds **0.2 credits per DAR** for listening. Reviewers note standalone cost as expensive with non-straightforward integration . **Free tier**: None. **Best for**: large enterprises wanting messaging-first engagement across channels—**trade-off**: channel fees and handling fees stack; credit-based pricing requires volume modeling.
-
-
-
-- **Intercom Fin**
-
-  **AI-first support platform** with Fin AI Agent. **Pricing**: **Essential from $0.99/seat/month** (annual) plus **Fin at $0.99 per outcome**; **Advanced $85/seat/month**; **Expert $132/seat/month**; **Copilot add-on $29/agent/month**. **Free tier**: No permanent free tier; trial available. **Best for**: teams wanting AI resolution priced per successful outcome—**trade-off**: seat + per-outcome costs stack; minimum monthly commitment applies.
-
-
-
-- **Zendesk AI**
-
-  **AI agents within Zendesk** with outcome-based pricing. **Pricing**: **Support Team $19/agent/month**; **Suite $55**; AI agents included with **automated resolution allowance per agent**; overages **$1.50 committed or $2.00 pay-as-you-go**. **Free tier**: No free plan; trial available. **Best for**: Zendesk customers wanting AI resolution integrated with their helpdesk—**trade-off**: resolution definition is contractual; commitments lock in volume.
-
-
-
-- **Ada**
-
-  **Agentic customer experience** platform. **Pricing**: **AWS Marketplace entry $33,000/year for 60,000 conversations**; Capterra/GetApp list starting at **$60,000 annually**. **Free tier**: **No free plan, no free trial**. **Best for**: enterprises wanting deep system integrations for end-to-end resolution—**trade-off**: high entry price; implementation adds $15,000–$100,000+.
-
-
-
-- **Freshworks Freddy AI**
-
-  **AI agent within Freshworks**. **Pricing**: **Freddy AI Agent $49 per 100 sessions**; **Copilot $29/agent/month**; Growth plan **$19/agent/month** (annual). **Free tier**: Free plan up to 10 agents; 14-day Enterprise trial. **Best for**: SMBs wanting accessible AI chatbot at per-session pricing—**trade-off**: AI sessions metered separately from seats.
-
-
-
-- **Drift**
-
-  **Conversational AI and sales engagement** platform. **Pricing**: **Free** (10 queries/month); **Pro $29.99/month** (unlimited queries); **Standard $9.99/month** (50 queries). **Free tier**: Yes, 10 queries/month. **Best for**: teams wanting quick AI chat with a usable free tier—**trade-off**: query limits on free/standard; Pro subject to fair use.
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **Cel.ai**
-
-  **Open-source framework for omnichannel AI virtual assistants** (open source) — **the most purpose-built open-source framework for multi-channel assistants**, designed for self-hosting and flexibility . **Features**: **Multi-assistant router**—logic router based on state variables, **agentic router based on user intent and context** (keeps prompts small and focused), semantic router coming soon; **Connectors**—WhatsApp, Telegram, VAPI.ai (voice), Chatwoot; **Powered by LangChain** with LangSmith user tracing; moderation and blacklist middlewares; invitations; Ngrok native integration; user sequential message processing . **Tech stack**: Python. **Deploy**: `pip install celai`; self-hosted. **Trade-off**: **Newer framework**—smaller community than Rasa or Botpress; requires Python and connector-specific setup. **Best for**: developers wanting to build omnichannel assistants (messaging + voice) with a modular, router-based architecture—especially those wanting to avoid hosted platform lock-in .
-
-
-
-- **Rasa**
-
-  **Open-source machine learning framework for automated text and voice conversations** (Apache 2.0) — **the enterprise NLU standard**, with a large community and full self-hosting control . **Features**: **NLU and dialogue management**—train custom models for intent recognition and entity extraction; **connect to Slack, Facebook, and more**; **create chatbots and voice assistants**; enterprise deployment features in Rasa Pro (commercial). **Tech stack**: Python. **Deploy**: `pip3 install rasa`; self-hosted . **Trade-off**: **Framework, not a product**—no inbox, no widget, no helpdesk; you build the application layer. **Best for**: banks and regulated enterprises with ML teams needing full control over their NLU pipeline—especially those already invested in the Rasa ecosystem.
-
-
-
-- **Botpress**
-
-  **Visual chatbot builder** (open source) — **the most accessible open-source visual flow builder** for designing chat flows without coding everything by hand. **Features**: **Visual flow editor**; multi-channel deployment (Slack, MS Teams, website, Telegram); built-in NLU; native extensions . **Tech stack**: TypeScript, Node.js. **Deploy**: Self-hosted (v12 documentation available) or Botpress Cloud . **Trade-off**: **v12 self-hosted documentation is the primary open reference**; newer versions are Cloud-first. **Best for**: teams wanting a visual builder on self-hosted infrastructure—verify current self-hosting support directly with Botpress.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **elizaOS (eliza)** — Open-source framework for AI agents (open source, TypeScript). Multi-platform agent runtime with plugins for Discord, Twitter, Telegram, and more; CLI scaffolding and local mock stack . **Note**: **General-purpose agent framework**—not a customer support platform; broader than virtual assistants. **Best for**: developers wanting a flexible, multi-platform agent foundation.
-
-
-
-**Frameworks for building custom systems**: Combine **Cel.ai** for omnichannel routing with **Rasa** for custom NLU and **Botpress** for visual flow design—creating a layered open-source virtual assistant stack. **None match Kore.ai's contact center depth or watsonx's Conversational Search RAG**, but for core assistant functionality, the options are production-capable.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, license (for open-source), and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Virtual assistant platforms handling customer conversations must comply with data protection regulations (GDPR, CCPA, etc.) and implement appropriate access controls.
-
-- **The "enterprise platform" vs. "omnichannel framework" vs. "NLU framework" vs. "visual builder" distinction is critical.** **Kore.ai, IBM watsonx, Yellow.ai, LivePerson, Intercom Fin, Zendesk AI, Ada, Freshworks Freddy, and Drift** are **enterprise platforms**—they provide contact center integrations, voice channels, and governance . **Cel.ai** is an **omnichannel framework**—it routes messages across channels with multi-assistant orchestration . **Rasa** is an **NLU framework**—it trains custom models but requires you to build the application layer . **Botpress** is a **visual builder**—it provides flow design with deployment options . **Choose based on whether you need a turnkey enterprise platform, omnichannel routing, custom NLU, or a visual builder.**
-
-- **Kore.ai's pay-as-you-go model is the most accessible enterprise entry point**—**5,000 free sessions**, then reload from **$100** and pay only for consumed sessions . **The trade-off**: session-based metering; enterprise features gated.
-
-- **IBM watsonx Assistant's Plus plan starts at $140/month for 1,000 MAUs**—additional MAUs are **$14 per 100**, and RUs for generative features are **$0.60 per 1,000** . **Voice adds $9 per 100 voice MAUs** .
-
-- **LivePerson's cost is noted as expensive** by reviewers, with non-straightforward integration to other platforms . **Model your channel mix and DAU before committing.**
-
-- **Cel.ai is the most purpose-built open-source omnichannel framework**—multi-assistant routing, LangChain integration, and connectors for WhatsApp, Telegram, and voice . **The trade-off**: newer project with smaller community.
-
-- **Rasa remains the enterprise NLU standard** with full self-hosting control . **The trade-off**: framework, not product; you build the application layer.
-
-- **Botpress's self-hosting story is v12-focused**—verify current support before committing to self-hosted deployment .
-
-- Self-hosted open-source solutions require proper infrastructure (Python for Cel.ai and Rasa, Node.js for Botpress), security hardening, and ongoing maintenance. **Virtual assistant data includes customer conversations and PII**—ensure your deployment meets your organization's privacy and compliance requirements before handling live customer interactions.
-
-
+</div>
 
 ---
 
+## 📑 Table of Contents
 
+- [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS & Hosted Platforms](#-saas--hosted-platforms)
+  - [📊 SaaS Pricing & Valuation Overview](#-saas-pricing--valuation-overview)
+  - [🔍 SaaS Platform Deep Dive](#-saas-platform-deep-dive)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+  - [⭐ Open-Source Ranking by Stars](#-open-source-ranking-by-stars)
+  - [🛠️ Open-Source Framework Profiles](#️-open-source-framework-profiles)
+- [⚖️ Architectural Decision Matrix](#️-architectural-decision-matrix)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [📜 Disclaimer & Compliance](#-disclaimer--compliance)
 
-**Made for conversational AI developers, support teams, and organizations building transparent virtual assistant solutions.**
+---
 
-Let's make AI Virtual Assistant Chatbots more open, data-driven, and conversation-friendly.
+## 🌐 Sector Overview & Market Dynamics
+
+The global conversational AI and AI virtual assistant market is estimated at **$14.8B – $17.1B in 2025** and projected to exceed **$37.5B – $49.8B by 2030–2031** (growing at an aggressive CAGR of ~20% to nearly 30%), driven by multimodal generative AI, autonomous agentic workflows, and pervasive enterprise contact center automation.
+
+The sector exhibits **moderate fragmentation with strong niche consolidation**: while foundational LLM infrastructure and enterprise helpdesk ecosystems (e.g., IBM, Zendesk, Salesforce) command major enterprise footprints, no single player maintains a "winner-take-all" monopoly due to diverse deployment requirements across regulatory compliance, self-hosted data sovereignty, omnichannel orchestration, and specialized voice telephony.
+
+---
+
+## 🏢 SaaS & Hosted Platforms
+
+### 📊 SaaS Pricing & Valuation Overview
+
+The table below lists leading commercial virtual assistant and conversational AI platforms sorted descending by company scale (Valuation / Market Capitalization / Estimated Annual Revenue).
+
+| 🏢 Product | 💰 Starting Tier Price | 🎁 Free Tier / Trial Limit | 📈 Scale (Valuation / Revenue) | 🎯 Best For |
+| :--- | :--- | :--- | :--- | :--- |
+| **IBM watsonx Assistant** | **$140/month** (Plus plan, incl. 1,000 MAUs; $14/100 MAUs overage; $0.60/1k RUs; Voice $9/100 MAUs) | **Free Forever** (Lite plan: 1,000 active users/month, up to 5 skills, 30 days inactivity retention) | **~$200B+ Market Cap** (~$62B ARR parent) | Enterprise governance, RAG, hybrid-cloud security & regulated industries |
+| **Zendesk AI** | **$19/agent/month** (Support Team, annual) or **$55/agent/month** (Suite Team) + $1.50–$2.00/automated resolution | **14-day free trial** (Full Suite Enterprise access, up to 5 trial agent seats, no credit card required) | **~$10.2B Valuation** (~$1.7B ARR) | Native helpdesk ticketing integration & high-volume customer service desks |
+| **Freshworks Freddy AI** | **$19/agent/month** (Freshchat Growth) + Freddy AI Agent at **$49 per 100 sessions**; Copilot **$29/agent/month** | **Free Forever** (Freshchat Free plan for up to 10 agents; plus 14-day Enterprise trial with 50 free Freddy AI sessions) | **~$4.5B Market Cap** (~$700M ARR) | SMB-to-midmarket service teams wanting modular per-session AI capacity |
+| **Intercom Fin** | **$0.99/outcome** (Fin AI resolution fee) + workspace seat starting at **$39/seat/month** (Essential) or **$85/seat/month** (Advanced) | **14-day free trial** (Includes full platform features and up to 10 free Fin AI resolutions) | **~$1.3B Valuation** (~$300M ARR) | High-growth SaaS teams seeking outcome-based AI deflection |
+| **Drift** | **$9.99/month** (Standard plan: 50 chat queries/month; Pro plan at **$29.99/month** for unlimited queries) | **Free Forever** (Free plan: 10 queries/month, 1 live chat seat, basic bot playbooks) | **~$1.0B Valuation** (Acquired by Vista / Salesloft) | B2B pipeline generation, conversational marketing & website conversion |
+| **Kore.ai** | **$100 one-time reload** (Pay-as-you-go metering after promotional allowance, consumption-based) | **Free Forever** (5,000 free lifetime sessions, up to 5 virtual assistants per account) | **~$804M–$1.2B Valuation** (~$145M+ ARR) | Large enterprise contact centers requiring custom dialog tasks & telephony |
+| **Yellow.ai** | **Custom quoted** (Starts with pay-as-you-go / premium enterprise contract via sales) | **Free Forever** (Freemium plan: 5,000 bot conversations/month, 500 tickets/month, unlimited agent seats, 2 channels) | **~$550M Valuation** (~$35M–$80M ARR) | Global organizations seeking bilingual/multilingual omni-channel automation |
+| **Ada** | **$33,000/year** (Starting entry package on AWS Marketplace for 60,000 annual conversations) | **No Free Tier / No Self-Serve Trial** (Enterprise sandbox provided only via guided sales demonstration) | **~$430M Valuation** (~$70M ARR, merging with Dialpad) | Autonomous conversational customer experience across voice and messaging |
+| **LivePerson** | **$599/month** (Standard entry commitment based on DAR Engagement Credits + SMS/WhatsApp channel fees + 15% handling fee) | **30-day free trial** (Available on select partner cloud marketplaces; otherwise proof-of-concept via sales) | **~$150M Market Cap** (~$320M Annual Revenue) | High-throughput enterprise messaging with complex human-agent orchestration |
+| **Zoho SalesIQ (Zia)** | **$7/user/month** (Basic plan, billed annually) or **$14/user/month** (Professional plan unlocking advanced Zia AI features) | **Free Forever** (Free plan for 3 operators, 100 chat sessions/month; plus 15-day Enterprise trial with full Zia AI bot access) | **Private bootstrapped** (~$1.4B+ Zoho Corp Revenue) | Zoho CRM / Desk ecosystem users seeking unified live chat and agentic workflows |
+
+---
+
+### 🔍 SaaS Platform Deep Dive
+
+- **IBM watsonx Assistant** 🛡️
+  Enterprise conversational AI platform featuring generative AI capabilities, Conversational Search RAG, and native enterprise governance.
+  - **Starting Price**: Lite is free; Plus begins at $140/month.
+  - **Free Tier**: Perpetual Lite tier with 1,000 MAUs.
+  - **Best For**: Highly regulated industries (banking, telecom, healthcare) requiring strict data governance and hybrid-cloud deployments.
+
+- **Zendesk AI** 🎧
+  Deeply integrated AI agent inside the Zendesk customer experience ecosystem, with outcome-based pricing.
+  - **Starting Price**: $19/agent/month (Support Team) + automated resolution overages.
+  - **Free Tier**: 14-day fully featured Enterprise trial.
+  - **Best For**: Support teams running Zendesk who want seamless escalation between AI deflection and human ticketing.
+
+- **Freshworks Freddy AI** ⚡
+  Modular AI assistant for customer service, IT service management (ITSM), and sales automation.
+  - **Starting Price**: $19/agent/month (Growth) + Freddy AI Agent at $49 per 100 sessions.
+  - **Free Tier**: Free plan for up to 10 agents + 14-day Enterprise trial with 50 AI sessions.
+  - **Best For**: Fast-growing businesses seeking predictable per-session pricing without massive upfront enterprise lock-in.
+
+- **Intercom Fin** 🚀
+  Groundbreaking generative AI customer service agent built on top of Claude/GPT-4o that autonomously resolves support tickets.
+  - **Starting Price**: $0.99 per successful resolution + seat fee ($39/seat/month).
+  - **Free Tier**: 14-day free trial with 10 free resolution outcomes.
+  - **Best For**: Tech startups and modern scale-ups seeking automated resolutions charged solely on success.
+
+- **Drift** 🎯
+  Conversational marketing and AI bot platform engineered to qualify leads, book meetings, and accelerate B2B pipeline.
+  - **Starting Price**: $9.99/month (Standard tier for 50 queries).
+  - **Free Tier**: Free plan with 10 queries/month.
+  - **Best For**: Revenue marketing and sales development teams driving real-time inbound pipeline.
+
+- **Kore.ai Experience Optimization (XO) Platform** 🏆
+  Enterprise-grade virtual assistant platform supporting complex multi-intent dialogues, IVR telephony integrations, and enterprise search.
+  - **Starting Price**: Pay-as-you-go reload starting at $100 after 5,000 complimentary sessions.
+  - **Free Tier**: 5,000 free sessions across up to 5 virtual assistants.
+  - **Best For**: Tier-1 enterprise contact centers requiring omnichannel voice + digital conversational bots.
+
+- **Yellow.ai** 🌐
+  Dynamic automation platform powered by multi-LLM architecture supporting 135+ languages and cross-channel messaging.
+  - **Starting Price**: Custom quotes based on interaction volume.
+  - **Free Tier**: Freemium plan with 5,000 bot conversations/month and 500 tickets/month.
+  - **Best For**: Multilingual enterprise support across WhatsApp, web, and social messaging channels.
+
+- **Ada** 🤝
+  No-code agentic customer service platform designed to orchestrate complex reasoning and resolve customer issues end-to-end.
+  - **Starting Price**: $33,000/year for 60,000 annual interactions.
+  - **Free Tier**: No self-serve free tier; sandbox environments via sales demo.
+  - **Best For**: Enterprises replacing tier-1 support across chat, email, and voice with autonomous agentic resolution.
+
+- **LivePerson Conversational Cloud** 💬
+  Enterprise conversational cloud with asynchronous messaging, proactive notifications, and bot-to-human routing.
+  - **Starting Price**: Custom engagement credit tiers starting ~$599/month.
+  - **Free Tier**: 30-day trial via cloud marketplace partners.
+  - **Best For**: Massive consumer enterprises handling millions of monthly messaging touchpoints across Apple Messages for Business, WhatsApp, and SMS.
+
+- **Zoho SalesIQ (Zia Agents)** 💼
+  Customer engagement and live chat suite augmented with Zia conversational AI bots.
+  - **Starting Price**: $7/user/month (Basic) or $14/user/month (Professional).
+  - **Free Tier**: Free plan for 3 operators and 100 chats/month; 15-day Enterprise trial with full Zia bot builder.
+  - **Best For**: Organizations powered by Zoho One, Zoho CRM, and Zoho Desk.
+
+---
+
+## 🔓 Open-Source GitHub Projects
+
+### ⭐ Open-Source Ranking by Stars
+
+The following table lists premier open-source virtual assistants, visual flow builders, multi-agent frameworks, and voice agent runtimes, ranked descending by GitHub star count:
+
+| 🏆 Project | ⭐ GitHub Stars | 💻 Primary Stack | 📜 License | 🎯 Key Architecture / Specialization |
+| :--- | :--- | :--- | :--- | :--- |
+| [**Dify**](https://github.com/langgenius/dify) | [![Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers) | TypeScript, Python | Apache 2.0 | Complete LLM application development platform, visual agent workflow builder, RAG engine & chatbot orchestration |
+| [**Open WebUI**](https://github.com/open-webui/open-webui) | [![Stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers) | Python, Svelte, TypeScript | Open Source | Extensible, self-hosted AI interface for Ollama, OpenAI-compatible APIs, multi-user chat management & RAG |
+| [**Langflow**](https://github.com/langflow-ai/langflow) | [![Stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=social&color=white)](https://github.com/langflow-ai/langflow/stargazers) | Python, React | MIT | Visual IDE for building multi-agent AI assistants, RAG pipelines, and conversational components |
+| [**Flowise**](https://github.com/FlowiseAI/Flowise) | [![Stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white)](https://github.com/FlowiseAI/Flowise/stargazers) | TypeScript, Node.js | Apache 2.0 | Drag & drop UI to build customized LLM flows, autonomous agents, and embeddable customer service chat widgets |
+| [**Chatwoot**](https://github.com/chatwoot/chatwoot) | [![Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers) | Ruby on Rails, Vue.js | AGPL 3.0 | Open-source customer engagement suite with native bot webhooks, agent handoff, and omnichannel live chat |
+| [**Haystack**](https://github.com/deepset-ai/haystack) | [![Stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white)](https://github.com/deepset-ai/haystack/stargazers) | Python | Apache 2.0 | Production-ready LLM orchestration framework for building conversational search, RAG pipelines, and enterprise assistants |
+| [**Rasa**](https://github.com/RasaHQ/rasa) | [![Stars](https://img.shields.io/github/stars/RasaHQ/rasa?style=social&color=white)](https://github.com/RasaHQ/rasa/stargazers) | Python | Apache 2.0 | Industry-standard conversational AI framework for building intent-driven text and voice assistants with deterministic dialogue policies |
+| [**elizaOS (Eliza)**](https://github.com/elizaOS/eliza) | [![Stars](https://img.shields.io/github/stars/elizaOS/eliza?style=social&color=white)](https://github.com/elizaOS/eliza/stargazers) | TypeScript | MIT | Multi-agent autonomous framework with native connectors for Discord, Twitter/X, Telegram, and persistent agent personality memory |
+| [**LiveKit Agents**](https://github.com/livekit/agents) | [![Stars](https://img.shields.io/github/stars/livekit/agents?style=social&color=white)](https://github.com/livekit/agents/stargazers) | Python | Apache 2.0 | Real-time multimodal voice and video AI agent runtime with ultra-low latency WebRTC streaming and turn-detection |
+| [**Botpress**](https://github.com/botpress/botpress) | [![Stars](https://img.shields.io/github/stars/botpress/botpress?style=social&color=white)](https://github.com/botpress/botpress/stargazers) | TypeScript, Node.js | AGPL 3.0 / BSL | Developer-friendly visual chatbot builder with modular NLU, workflow canvas, and multi-channel connectors |
+| [**Cel.ai**](https://github.com/cel-ai/celai) | [![Stars](https://img.shields.io/github/stars/cel-ai/celai?style=social&color=white)](https://github.com/cel-ai/celai/stargazers) | Python | MIT | Purpose-built omnichannel virtual assistant framework with multi-assistant logic routers, LangChain integration, and voice/chat connectors |
+
+---
+
+### 🛠️ Open-Source Framework Profiles
+
+- [**Dify**](https://github.com/langgenius/dify) 🌟
+  **The all-in-one open-source LLM application platform.** Features a visual orchestration canvas for prompt engineering, agentic workflows, contextual RAG, and an out-of-the-box web chat client that can be deployed via Docker in minutes.
+
+- [**Open WebUI**](https://github.com/open-webui/open-webui) 🖥️
+  **The ultimate self-hosted conversational interface.** Delivers a ChatGPT-like web UI that integrates locally with Ollama or remote LLM endpoints, featuring multi-model conversations, document RAG, web browsing tools, and granular user role management.
+
+- [**Langflow**](https://github.com/langflow-ai/langflow) 🎨
+  **Visual prototyping framework for AI assistants.** Enables developers to visually construct multi-agent networks, complex vector database pipelines, and contextual conversational bots with instantaneous component-level debugging.
+
+- [**Flowise**](https://github.com/FlowiseAI/Flowise) 🔌
+  **Drag-and-drop conversational agent framework.** Built for rapid deployment of customer-facing chatbot widgets, API endpoints, and memory-backed conversational agents powered by LangChain and LlamaIndex.
+
+- [**Chatwoot**](https://github.com/chatwoot/chatwoot) 📬
+  **Self-hosted customer engagement & omnichannel inbox.** Serves as the conversational interface and live-agent escalation layer for AI bots across WhatsApp, Twitter, Facebook, Email, and Web chat.
+
+- [**Haystack**](https://github.com/deepset-ai/haystack) 🔍
+  **Enterprise conversational search & RAG framework.** Ideal for building conversational knowledge assistants that reliably answer complex questions across vast document repositories with citations.
+
+- [**Rasa**](https://github.com/RasaHQ/rasa) 🏛️
+  **The enterprise benchmark for on-premise NLU.** Offers full control over machine learning pipelines, intent classification, entity extraction, and state machine dialogue management—favored by banks and privacy-sensitive enterprises.
+
+- [**elizaOS (Eliza)**](https://github.com/elizaOS/eliza) 🧠
+  **Autonomous multi-agent system runtime.** Tailored for developing autonomous virtual personalities and assistants that interact continuously across Discord, Telegram, and social networks with persistent character memory.
+
+- [**LiveKit Agents**](https://github.com/livekit/agents) 🎙️
+  **Ultra-low latency real-time voice agent framework.** Powers voice-first virtual assistants capable of conversational interruptions, natural pauses, and sub-second voice-to-voice streaming via WebRTC.
+
+- [**Botpress**](https://github.com/botpress/botpress) 🗺️
+  **Visual conversation designer.** Combines a flowchart-based conversation builder with modular hooks and multi-channel connectors for structured dialogue and workflow automation.
+
+- [**Cel.ai**](https://github.com/cel-ai/celai) 🔀
+  **Lightweight omnichannel assistant router.** Designed specifically to route inbound messages from WhatsApp, Telegram, or Vapi.ai across specialized sub-assistants while maintaining concise LLM context windows.
+
+---
+
+## ⚖️ Architectural Decision Matrix
+
+```
+                        ┌────────────────────────────────────────────────────────┐
+                        │ What is your primary deployment & control requirement? │
+                        └───────────────────────────┬────────────────────────────┘
+                                                    │
+                 ┌──────────────────────────────────┴──────────────────────────────────┐
+                 ▼                                                                     ▼
+      [ Enterprise Managed SaaS ]                                            [ Self-Hosted Open-Source ]
+                 │                                                                     │
+    ┌────────────┴────────────┐                                           ┌────────────┴────────────┐
+    ▼                         ▼                                           ▼                         ▼
+[ Outcome Deflection ]   [ Full Contact Center ]                     [ Visual Agent Canvas ]   [ Real-Time Voice / NLU ]
+  • Intercom Fin           • Kore.ai XO Platform                       • Dify                    • LiveKit Agents (Voice)
+  • Zendesk AI             • IBM watsonx Assistant                     • Langflow                • Rasa (On-prem NLU)
+  • Freshworks Freddy      • Yellow.ai                                 • Flowise                 • Cel.ai (Omnichannel)
+```
+
+- **Choose Enterprise SaaS** if your priority is zero-maintenance SLA, turnkey contact center telephony, native ticketing sync, and outcome-based pricing models.
+- **Choose Open-Source Frameworks** if you require full data sovereignty (GDPR/HIPAA compliance), zero vendor lock-in, on-premise local model inference (via Ollama/vLLM), or custom voice agent streaming.
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are welcome! Please help expand and refine this directory:
+
+1. 🍴 Fork the repository.
+2. 🌿 Create a feature branch: `git checkout -b feature/add-new-assistant`.
+3. 📝 Update `README.md` maintaining the existing structure:
+   - For SaaS products: include verified starting tier price, exact free tier / trial limit, scale (valuation/revenue), and core specialization.
+   - For open-source projects: ensure the GitHub repository link and star badge link (`style=social&color=white`) point to the stargazers page.
+4. 🚀 Submit a Pull Request with a clear description of the project and why it belongs in the list.
+
+---
+
+## 📜 Disclaimer & Compliance
+
+- This repository is a community-curated directory compiled for educational and architectural evaluation purposes.
+- Mentions of commercial SaaS platforms and open-source projects do not imply official affiliation or commercial endorsement.
+- Organizations deploying conversational AI virtual assistants must comply with regional privacy regulations (GDPR, CCPA, HIPAA) and implement strict safeguards against prompt injection, hallucination, and sensitive data leakage.
+
+---
+
+<div align="center">
+  <sub>⭐ Star this repository if you find it helpful for your conversational AI journey! 🌟</sub>
+</div>
