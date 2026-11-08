@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Virtual-Assistant-Chatbot/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Virtual-Assistant-Chatbot?style=social&color=white" alt="GitHub stars"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Virtual-Assistant-Chatbot/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Virtual-Assistant-Chatbot?style=social&color=white" alt="GitHub_Stars"></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Virtual-Assistant-Chatbot/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Virtual-Assistant-Chatbot?style=social&color=white" alt="GitHub forks"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=flat-square" alt="License"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"></a>
@@ -140,9 +140,9 @@ The table below lists leading commercial virtual assistant and conversational AI
 
 ### ⭐ Open-Source Ranking by Stars
 
-The following table lists premier open-source virtual assistants, visual flow builders, multi-agent frameworks, and voice agent runtimes, ranked descending by GitHub star count:
+The following table lists premier open-source virtual assistants, visual flow builders, multi-agent frameworks, and voice agent runtimes, ranked descending by GitHub Stars_Count:
 
-| 🏆 Project | ⭐ GitHub Stars | 💻 Primary Stack | 📜 License | 🎯 Key Architecture / Specialization |
+| 🏆 Project | ⭐ GitHub_Stars | 💻 Primary Stack | 📜 License | 🎯 Key Architecture / Specialization |
 | :--- | :--- | :--- | :--- | :--- |
 | [**Dify**](https://github.com/langgenius/dify) | [![Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers) | TypeScript, Python | Apache 2.0 | Complete LLM application development platform, visual agent workflow builder, RAG engine & chatbot orchestration |
 | [**Open WebUI**](https://github.com/open-webui/open-webui) | [![Stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers) | Python, Svelte, TypeScript | Open Source | Extensible, self-hosted AI interface for Ollama, OpenAI-compatible APIs, multi-user chat management & RAG |
@@ -227,7 +227,7 @@ Contributions are welcome! Please help expand and refine this directory:
 2. 🌿 Create a feature branch: `git checkout -b feature/add-new-assistant`.
 3. 📝 Update `README.md` maintaining the existing structure:
    - For SaaS products: include verified starting tier price, exact free tier / trial limit, scale (valuation/revenue), and core specialization.
-   - For open-source projects: ensure the GitHub repository link and star badge link (`style=social&color=white`) point to the stargazers page.
+   - For open-source projects: ensure the GitHub repository link and Stars_Badge link (`style=social&color=white`) point to the stargazers page.
 4. 🚀 Submit a Pull Request with a clear description of the project and why it belongs in the list.
 
 ---
