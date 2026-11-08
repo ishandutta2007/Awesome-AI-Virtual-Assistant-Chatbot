@@ -9,11 +9,13 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Virtual-Assistant-Chatbot/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Virtual-Assistant-Chatbot?style=social&color=white" alt="GitHub stars"></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Virtual-Assistant-Chatbot/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Virtual-Assistant-Chatbot?style=social&color=white" alt="GitHub forks"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=flat-square" alt="License"></a>
-  <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Virtual-Assistant-Chatbot/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 <p align="center">
@@ -35,6 +37,8 @@
   - [🛠️ Open-Source Framework Profiles](#️-open-source-framework-profiles)
 - [⚖️ Architectural Decision Matrix](#️-architectural-decision-matrix)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
 - [📜 Disclaimer & Compliance](#-disclaimer--compliance)
 
 ---
@@ -225,6 +229,23 @@ Contributions are welcome! Please help expand and refine this directory:
    - For SaaS products: include verified starting tier price, exact free tier / trial limit, scale (valuation/revenue), and core specialization.
    - For open-source projects: ensure the GitHub repository link and star badge link (`style=social&color=white`) point to the stargazers page.
 4. 🚀 Submit a Pull Request with a clear description of the project and why it belongs in the list.
+
+---
+
+## 💖 Support
+
+Thank you so much for exploring this project! If you find this curated list helpful in your conversational AI development, research, or product evaluations, please consider supporting the project:
+
+- ⭐ **Star** this repository to show your appreciation!
+- 🍴 **Fork** and contribute new platforms or open-source tools.
+- 📢 **Share** it with fellow AI engineers, builders, and community channels!
+- ☕ **Buy me a coffee**: Support ongoing maintenance and curated updates directly via my [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-AI-Virtual-Assistant-Chatbot&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-AI-Virtual-Assistant-Chatbot&type=date&legend=top-left)
 
 ---
 
